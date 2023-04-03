@@ -1,5 +1,5 @@
 # VideoWave
-VideoWave is an open-source video editing software designed to help developers easily implement powerful video editing capabilities into their applications. With VideoWave, users can create professional-grade video content using a user-friendly interface that simplifies the video editing process.
+VideoWave is an open-source video editing software designed to help developers easily implement powerful video editing capabilities into their applications. With VideoWave, users can create professional-grade video content using a user-friendly customisable interface that simplifies the video editing process.
 
 ### Features
 - [ ] Trim and split video clips
